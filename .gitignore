@@ -1,0 +1,5 @@
+# ignore all .log files
+*.log
+
+# ignore all .pdf files in the doc/ directory
+doc/**/*.pdf
